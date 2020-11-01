@@ -1,7 +1,14 @@
 body{
     background-color: aqua;
 }
+.HackClubLogo{
+    position: absolute;
+    left: 10px;
+    top: 25px;
+    border-radius: 10px;
+}
 h1 {
+    position: absolute;
     width: 203px;
     height: 70px;
     left: 80px;
@@ -23,5 +30,25 @@ p{
     color: white;
 }
 a{
-    color: tomato;
+    color: #ea354a;
+    position: absolute;
+    width: 189px;
+    height: 59px;
+    left: 90px;
+    top: 435px;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 59px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.AboutUs{
+    position: absolute;
+    width: 132px;
+    height: 21px;
+    left: 184px;
+    top: 586px;
+    font-size: 24px;
+    line-height: 28px;
 }
